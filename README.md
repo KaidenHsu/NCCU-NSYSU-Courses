@@ -6,7 +6,7 @@ Under construnction 🔨
 2. [計算機程式設計（一）][1.2]
 3. [計算機概論][1.3]
 
-[1.1]:Courses/semester1/CalculusA/CaculusA.md
+[1.1]:Courses/Semester1/CalculusA
 
 ## 大一下
 1. 微積分甲（二）
