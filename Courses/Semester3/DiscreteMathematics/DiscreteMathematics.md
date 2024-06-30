@@ -1,0 +1,38 @@
+# Discrete Mathematics
+
+## Course Details
+- Type of Credit: Required
+- Credits: 3
+- Course Department: Computer Science/B/2
+- Instructor: Prof. 曾一凡
+- Prerequisites: N/A
+- Session: tue13-16
+
+## Course Description
+This is a fundamental mathematical course for computer science students. It is intended to introduce to the students basic discrete mathematical tools and skills that are needed in the study of computer science. These skills/tools include
+
+1. mathematical reasoning: for the student be able to read comprehend and construct mathematical arguments
+2. combinatorial analysis and discrete structures: knowledge of which is essential in problem solving/modeling and
+3. algorithmic thinking: that would be helpful in the specification verification and analysis of computer algorithms/programs. Topics introduced in the course include logic induction counting recurrence relations relations graphs and trees.
+
+## Course Schedule & Requirements
+| Week | Course Theme                                                                                                   | Content and Reading Assignment                                                                                           | Activity and Homework | Lecture Hours | Preparation Time |
+|------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------|---------------|------------------|
+| 1    | The foundations: Logic, sets, functions, algorithm and complexity                                             | The foundations: Logic, sets, functions, algorithm and complexity                                                         | Homework 1           | 3.0           | 3.0              |
+| 2    | Mathematical reasoning: Methods of proofs, Mathematical induction, recursive definitions, recursive algorithms and program correctness. | Mathematical reasoning: Methods of proofs, Mathematical induction, recursive definitions, recursive algorithms and program correctness. | Homework 2           | 3.0           | 3.0              |
+| 3    | Mathematical reasoning: Methods of proofs, Mathematical induction, recursive definitions, recursive algorithms and program correctness. | Mathematical reasoning: Methods of proofs, Mathematical induction, recursive definitions, recursive algorithms and program correctness. | Homework 3           | 3.0           | 3.0              |
+| 4    | Number Theory and its applications                                                                            | Number Theory and its applications                                                                                        | Homework 4           | 3.0           | 3.0              |
+| 5    | Number Theory and its applications                                                                            | Number Theory and its applications                                                                                        | Homework 5           | 3.0           | 3.0              |
+| 6    | Number Theory and its applications                                                                            | Number Theory and its applications                                                                                        | Homework 6           | 3.0           | 3.0              |
+| 7    | Counting: Basic counting methods, pigeon hole principle, permutation and combinations.                        | Counting: Basic counting methods, pigeon hole principle, permutation and combinations.                                    | Homework 7           | 3.0           | 3.0              |
+| 8    | Counting: Basic counting methods, pigeon hole principle, permutation and combinations.                        | Counting: Basic counting methods, pigeon hole principle, permutation and combinations.                                    | Homework 8           | 3.0           | 3.0              |
+| 9    | Midterm                                                                                                       |                                                                                                                          |                      |               |                  |
+| 10   | Advanced counting techniques: Recurrence relations, inclusion-exclusion principle and applications, generating functions. | Advanced counting techniques: Recurrence relations, inclusion-exclusion principle and applications, generating functions. | Homework 9           | 3.0           | 3.0              |
+| 11   | Advanced counting techniques: Recurrence relations, inclusion-exclusion principle and applications, generating functions. | Advanced counting techniques: Recurrence relations, inclusion-exclusion principle and applications, generating functions. | Homework 10          | 3.0           | 3.0              |
+| 12   | Relations: Relations and their properties, n-ary relations and their applications, Relation representations, Closure of relations, Equivalence Relations, Partial Orderings. | Relations: Relations and their properties, n-ary relations and their applications, Relation representations, Closure of relations, Equivalence Relations, Partial Orderings. | Homework 11          | 3.0           | 3.0              |
+| 13   | Relations: Relations and their properties, n-ary relations and their applications, Relation representations, Closure of relations, Equivalence Relations, Partial Orderings. | Relations: Relations and their properties, n-ary relations and their applications, Relation representations, Closure of relations, Equivalence Relations, Partial Orderings. | Homework 12          | 3.0           | 3.0              |
+| 14   | Graphs: terminology, representation, connectivity, Euler and Hamilton paths, shortest path problems, planar graphs, graph coloring. | Graphs: terminology, representation, connectivity, Euler and Hamilton paths, shortest path problems, planar graphs, graph coloring. | Homework 13          | 3.0           | 3.0              |
+| 15   | Graphs: terminology, representation, connectivity, Euler and Hamilton paths, shortest path problems, planar graphs, graph coloring. | Graphs: terminology, representation, connectivity, Euler and Hamilton paths, shortest path problems, planar graphs, graph coloring. | Homework 14          | 3.0           | 3.0              |
+| 16   | Trees: terminology, applications, tree traversal, trees and sorting, spanning trees, minimum spanning trees.   | Trees: terminology, applications, tree traversal, trees and sorting, spanning trees, minimum spanning trees.               | Homework 15          | 3.0           | 3.0              |
+| 17   | Trees: terminology, applications, tree traversal, trees and sorting, spanning trees, minimum spanning trees.   | Trees: terminology, applications, tree traversal, trees and sorting, spanning trees, minimum spanning trees.               | Homework 16          | 3.0           | 3.0              |
+| 18   | Final Exam                                                                                                     |                                                                                                                          |                      |               |                  |
