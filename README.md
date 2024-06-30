@@ -1,44 +1,49 @@
 # NCCU-Course
-Under construnction 🔨
+Course information and class slides for all the core courses I take in NCCU.
 
-## 大一上
+## Freshman Fall
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
-2. [Computer Programming 1 Lab][1.3]
+3. [Computer Programming 1 Lab][1.3]
 
 [1.1]:Courses/Semester1/CalculusA1
 [1.2]:Courses/Semester1/ComputerProgramming1
 [1.3]:Courses/Semester1/ComputerProgramming1Lab
 
-## 大一下
+## Freshman Spring
 1. [Calculus A 2][2.1]
 2. [Computer Programming 2][2.2]
-2. [Computer Programming 2 Lab][2.3]
+3. [Computer Programming 2 Lab][2.3]
 
 [2.1]:Courses/Semester2/CalculusA2
 [2.2]:Courses/Semester2/ComputerProgramming2
 [2.3]:Courses/Semester2/ComputerProgramming2Lab
 
-## 大二上
-1. 離散數學
-2. 資料結構
-3. 物件導向程式設計
+## Sophomore Fall
+1. [Data Structures][3.1]
+2. [Discrete Mathematics][3.2]
+3. [Object-oriented Programming][3.3]
+4. [Object-oriented Programming Lab][3.4]
 
-## 大二下
+[3.1]:Courses/Semester3/DataStructures
+[3.2]:Courses/Semester3/DiscreteMathematics
+[3.3]:Courses/Semester3/ObjectOrientedProgramming/ObjectOrientedProgramming.md
+[3.4]:Courses/Semester3/ObjectOrientedProgrammingLab
+
+## Sophomore Spring
 1. 線性代數
 2. 數位系統導論
 3. 演算法
 4. 進階行動通訊網路
 
-## 大三上
+## Junior Fall
 1. 作業系統
 2. 計算機結構與組織
 3. 行動通訊網路
 4. 3D遊戲程式設計
 5. 計算思維與人工智慧應用導論
 
-
-## 大三下
+## Junior Spring
 1. 分散式系統
 2. 人工智慧概論
 3. 自然語言處理
@@ -46,6 +51,6 @@ Under construnction 🔨
 5. 資料科學
 6. 網路與通訊概論
 
-## 大四上
+## Senior Fall
 
-## 大四下
+## Senior Spring
