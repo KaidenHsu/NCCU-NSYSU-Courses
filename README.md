@@ -36,7 +36,7 @@ Course information and class slides for all the core courses I take in NCCU.
 3. 演算法
 4. 進階行動通訊網路
 
-[3.1]:Courses/Semester3/LinearAlgebra/LinearAlgebra.md
+[4.1]:Courses/Semester3/LinearAlgebra/LinearAlgebra.md
 
 ## Junior Fall
 1. 作業系統
