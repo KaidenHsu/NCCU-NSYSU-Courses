@@ -6,18 +6,18 @@ Course information and class slides for all the core courses I take in NCCU.
 2. [Computer Programming 1][1.2]
 3. [Computer Programming 1 Lab][1.3]
 
-[1.1]:Courses/Semester1/CalculusA1
-[1.2]:Courses/Semester1/ComputerProgramming1
-[1.3]:Courses/Semester1/ComputerProgramming1Lab
+[1.1]:Courses/Semester1/CalculusA1/CalculusA1.md
+[1.2]:Courses/Semester1/ComputerProgramming1/ComputerProgramming1.md
+[1.3]:Courses/Semester1/ComputerProgramming1Lab/ComputerProgramming1Lab.md
 
 ## Freshman Spring
 1. [Calculus A 2][2.1]
 2. [Computer Programming 2][2.2]
 3. [Computer Programming 2 Lab][2.3]
 
-[2.1]:Courses/Semester2/CalculusA2
-[2.2]:Courses/Semester2/ComputerProgramming2
-[2.3]:Courses/Semester2/ComputerProgramming2Lab
+[2.1]:Courses/Semester2/CalculusA2/CalculusA2.md
+[2.2]:Courses/Semester2/ComputerProgramming2/ComputerProgramming2.md
+[2.3]:Courses/Semester2/ComputerProgramming2Lab/ComputerProgramming2Lab.md
 
 ## Sophomore Fall
 1. [Data Structures][3.1]
@@ -25,10 +25,10 @@ Course information and class slides for all the core courses I take in NCCU.
 3. [Object-oriented Programming][3.3]
 4. [Object-oriented Programming Lab][3.4]
 
-[3.1]:Courses/Semester3/DataStructures
-[3.2]:Courses/Semester3/DiscreteMathematics
+[3.1]:Courses/Semester3/DataStructures/DataStructures.md
+[3.2]:Courses/Semester3/DiscreteMathematics/DiscreteMathematics.md
 [3.3]:Courses/Semester3/ObjectOrientedProgramming/ObjectOrientedProgramming.md
-[3.4]:Courses/Semester3/ObjectOrientedProgrammingLab
+[3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/ObjectOrientedProgrammingLab.md
 
 ## Sophomore Spring
 1. 線性代數
