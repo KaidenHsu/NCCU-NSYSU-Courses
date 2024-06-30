@@ -4,16 +4,20 @@ Under construnction 🔨
 ## 大一上
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
-3. [計算機概論][1.3]
+2. [Computer Programming 1 Lab][1.3]
 
 [1.1]:Courses/Semester1/CalculusA1
 [1.2]:Courses/Semester1/ComputerProgramming1
+[1.3]:Courses/Semester1/ComputerProgramming1Lab
 
 ## 大一下
 1. [Calculus A 2][2.1]
 2. [Computer Programming 2][2.2]
+2. [Computer Programming 2 Lab][2.3]
 
 [2.1]:Courses/Semester2/CalculusA2
+[2.2]:Courses/Semester2/ComputerProgramming2
+[2.3]:Courses/Semester2/ComputerProgramming2Lab
 
 ## 大二上
 1. 離散數學
