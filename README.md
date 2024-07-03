@@ -44,11 +44,17 @@ Course information and class slides for all the core courses I take in NCCU.
 [4.5]:Courses/Semester4/IntroductionToDigitalSystem/IntroductionToDigitalSystem.md
 
 ## Junior Fall
-1. 作業系統
-2. 計算機結構與組織
-3. 行動通訊網路
-4. 3D遊戲程式設計
-5. 計算思維與人工智慧應用導論
+1. [Computer Architecture and Organization][5.1]
+2. [Operating System][5.2]
+3. [Mobile Communication Network][5.3]
+4. [Computational Thinking and Introduction to Artificial Intelligence][5.4]
+5. [3D Game Programming][5.5]
+
+[5.1]:Courses/Semester5/ComputerArchitectureAndOrganization/ComputerArchitectureAndOrganization.md
+[5.2]:Courses/Semester5/OperatingSystem/OperatingSystem.md
+[5.3]:Courses/Semester5/MobileCommunicationNetwork/MobileCommunicationNetwork.md
+[5.4]:Courses/Semester5/ComputationalThinkingAndIntroductionToArtificialIntelligence/ComputationalThinkingAndIntroductionToArtificialIntelligence.md
+[5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
 
 ## Junior Spring
 1. 分散式系統
