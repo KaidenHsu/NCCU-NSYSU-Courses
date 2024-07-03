@@ -1,4 +1,4 @@
-# NCCU-Course
+# 🏫 NCCU-Course
 Course information and class slides for all the core courses I take in NCCU.
 
 ## Freshman Fall
@@ -61,3 +61,5 @@ Course information and class slides for all the core courses I take in NCCU.
 ## Senior Fall
 
 ## Senior Spring
+
+![University](images/Uni.jpg)
