@@ -31,12 +31,17 @@ Course information and class slides for all the core courses I take in NCCU.
 [3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/ObjectOrientedProgrammingLab.md
 
 ## Sophomore Spring
-1. [Linear Algebra][4.1]
-2. 數位系統導論
-3. 演算法
-4. 進階行動通訊網路
+1. [Advanced Mobile Communication Network][4.1]
+1. [Algorithms][4.2]
+2. [Digital System Labs][4.3]
+3. [Linear Algebra][4.4]
+4. [Introduction to Digital System][4.5]
 
-[4.1]:Courses/Semester4/LinearAlgebra/LinearAlgebra.md
+[4.1]:Courses/Semester4/AdvancedMobileCommunicationNetwork/AdvancedMobileCommunicationNetwork.md
+[4.2]:Courses/Semester4/Algorithms/Algorithms.md
+[4.3]:Courses/Semester4/DigitalSystemLabs/DigitalSystemLabs.md
+[4.4]:Courses/Semester4/LinearAlgebra/LinearAlgebra.md
+[4.5]:Courses/Semester4/IntroductionToDigitalSystem/IntroductionToDigitalSystem.md
 
 ## Junior Fall
 1. 作業系統
