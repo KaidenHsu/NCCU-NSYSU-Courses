@@ -5,10 +5,12 @@ Course information and class slides for all the core courses I take in NCCU.
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
 3. [Computer Programming 1 Lab][1.3]
+4. [Introduction to Computer Science][1.4]
 
 [1.1]:Courses/Semester1/CalculusA1/CalculusA1.md
 [1.2]:Courses/Semester1/ComputerProgramming1/ComputerProgramming1.md
 [1.3]:Courses/Semester1/ComputerProgramming1Lab/ComputerProgramming1Lab.md
+[1.4]:Courses/Semester1/IntroductionToComputerScience/IntroductionToComputerScience.md
 
 ## Freshman Spring
 1. [Calculus A 2][2.1]
@@ -57,12 +59,19 @@ Course information and class slides for all the core courses I take in NCCU.
 [5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
 
 ## Junior Spring
-1. 分散式系統
-2. 人工智慧概論
-3. 自然語言處理
-4. 資料庫系統
-5. 資料科學
-6. 網路與通訊概論
+1. [Data Science]
+2. [Database System]
+3. [Distributed Systems]
+4. [Introduction to Artificial Intelligence]
+5. [Introduction to Data Communications and Networking]
+6. [Natural Language Processing]
+
+[6.1]:Courses/Semester5/DataScience/DataScience.md
+[6.2]:Courses/Semester5/DatabaseSystem/DatabaseSystem.md
+[6.3]:Courses/Semester5/DistributedSystems/DistributedSystems.md
+[6.4]:Courses/Semester5/IntroductionToArtificialIntelligence/IntroductionToArtificialIntelligence.md
+[6.5]:Courses/Semester5/IntroductionToDataCommunicationsAndNetworking/IntroductionToDataCommunicationsAndNetworking.md
+[6.6]:Courses/Semester5/NaturalLanguageProcessing
 
 ## Senior Fall
 
