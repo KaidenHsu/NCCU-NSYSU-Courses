@@ -59,12 +59,12 @@ Course information and class slides for all the core courses I take in NCCU.
 [5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
 
 ## Junior Spring
-1. [Data Science]
-2. [Database System]
-3. [Distributed Systems]
-4. [Introduction to Artificial Intelligence]
-5. [Introduction to Data Communications and Networking]
-6. [Natural Language Processing]
+1. [Data Science][6.1]
+2. [Database System][6.2]
+3. [Distributed Systems][6.3]
+4. [Introduction to Artificial Intelligence][6.4]
+5. [Introduction to Data Communications and Networking][6.5]
+6. [Natural Language Processing][6.6]
 
 [6.1]:Courses/Semester5/DataScience/DataScience.md
 [6.2]:Courses/Semester5/DatabaseSystem/DatabaseSystem.md
