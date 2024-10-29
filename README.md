@@ -74,6 +74,9 @@ Course information and class slides for all the core courses I take in NCCU.
 [6.6]:Courses/Semester6/NaturalLanguageProcessing
 
 ## Senior Fall
+[7.1]:Courses/Semester7/InformationVisualization/InformationVisualization.md
+[7.2]:Courses/Semester7/VirtualRealityHapticInteractions/VirtualRealityHapticInteractions.md
+[7.3]:Courses/Semester7/DataMining/DataMining.md
 
 ## Senior Spring
 
