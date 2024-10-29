@@ -66,12 +66,12 @@ Course information and class slides for all the core courses I take in NCCU.
 5. [Introduction to Data Communications and Networking][6.5]
 6. [Natural Language Processing][6.6]
 
-[6.1]:Courses/Semester5/DataScience/DataScience.md
-[6.2]:Courses/Semester5/DatabaseSystem/DatabaseSystem.md
-[6.3]:Courses/Semester5/DistributedSystems/DistributedSystems.md
-[6.4]:Courses/Semester5/IntroductionToArtificialIntelligence/IntroductionToArtificialIntelligence.md
-[6.5]:Courses/Semester5/IntroductionToDataCommunicationsAndNetworking/IntroductionToDataCommunicationsAndNetworking.md
-[6.6]:Courses/Semester5/NaturalLanguageProcessing
+[6.1]:Courses/Semester6/DataScience/DataScience.md
+[6.2]:Courses/Semester6/DatabaseSystem/DatabaseSystem.md
+[6.3]:Courses/Semester6/DistributedSystems/DistributedSystems.md
+[6.4]:Courses/Semester6/IntroductionToArtificialIntelligence/IntroductionToArtificialIntelligence.md
+[6.5]:Courses/Semester6/IntroductionToDataCommunicationsAndNetworking/IntroductionToDataCommunicationsAndNetworking.md
+[6.6]:Courses/Semester6/NaturalLanguageProcessing
 
 ## Senior Fall
 
