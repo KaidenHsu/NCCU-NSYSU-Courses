@@ -1,0 +1,13 @@
+name: helloShiny
+title: helloShiny
+username:
+account: changlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 542084
+bundleId: 1671149
+url: https://changlab.shinyapps.io/helloShiny/
+when: 1540867647.82555
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: boxplot.R|covariation.R|diagnostics.R|ggplot.R|ggvis.R|helloShiny.R|piechart.R|runningCode.R|twoVariables.R|unusual.R|visVariation.R|ggvisExample/server.r|ggvisExample/ui.r

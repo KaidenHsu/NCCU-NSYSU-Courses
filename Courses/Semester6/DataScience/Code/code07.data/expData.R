@@ -1,0 +1,84 @@
+custdata <- read.table('custdata.tsv',header=TRUE,sep='\t')
+load("exampleData.rData")
+
+# employed rate of gender (contingency table)
+t<-table(custdata$sex,custdata$is.employed)
+t
+
+# female employed rate
+t[1,2]/sum(t[1,])
+
+# male employed rate
+t[2,2]/sum(t[2,])
+
+# check the relation between housing.type, recent.move and num.vehicles
+summary(custdata[is.na(custdata$housing.type), c("recent.move","num.vehicles")])
+
+# fix missing value
+custdata$is.employed.fix <- ifelse(is.na(custdata$is.employed),  
+                                   "missing",                    	
+                                   ifelse(custdata$is.employed==T, 
+                                          "employed",
+                                          "not employed")) 
+summary(as.factor(custdata$is.employed.fix))
+
+# another way to fix missing value
+custdata$is.employed.fix <- ifelse(is.na(custdata$is.employed),
+                  "not in active workforce",
+                   ifelse(custdata$is.employed==T,
+                                   "employed",
+                                    "not employed"))
+
+
+# VALUES ARE MISSING RANDOMLY
+meanIncome <- mean(custdata$Income, na.rm=T) 	# Note: 1 
+Income.fix <- ifelse(is.na(custdata$Income),
+                       meanIncome,
+                       custdata$Income)
+summary(Income.fix)
+summary(custdata$Income)
+
+# VALUES ARE MISSING SYSTEMATICALLY
+breaks <-c(0, 10000, 50000, 100000, 250000, 1000000)           	# Note: 1 
+
+Income.groups <- cut(custdata$income,
+                     breaks=breaks, include.lowest=F)  	# Note: 2 
+summary(Income.groups) 
+
+Income.groups <- as.character(Income.groups)                   	# Note: 4 
+Income.groups <- ifelse(is.na(Income.groups),                  	# Note: 5 
+                      "no income", Income.groups)
+summary(as.factor(Income.groups))
+
+# Tracking original NAs with an extra categorical variable
+missingIncome <- is.na(custdata$Income)  	# Note: 1 
+Income.fix <- ifelse(is.na(custdata$Income), 0, custdata$Income) 	# Note: 2
+
+# Checking units can prevent inaccurate results later
+Income = custdata$income/1000
+summary(Income)                                	# Note: 1 
+
+# plot a histogram of the age
+library(ggplot2)
+ggplot(custdata) +
+   geom_histogram(aes(x=age),
+   binwidth=5, fill="gray")
+
+# plot a density of the dollar
+library(scales)
+ggplot(custdata) + geom_density(aes(x=income)) +
+scale_x_continuous(labels=dollar)
+
+# plot a density of the log transformation of the dollar
+ggplot(custdata) + geom_density(aes(x=income)) +
+   scale_x_log10(breaks=c(100,1000,10000,100000), labels=dollar) +  annotation_logticks(sides="bt")
+
+# plot state of res as bar plot
+statesums <- table(custdata$state.of.res) 	# Note: 1 
+statef <- as.data.frame(statesums) 	# Note: 2 
+colnames(statef)<-c("state.of.res", "count") 	# Note: 3 
+statef <- transform(statef, state.of.res=reorder(state.of.res, count)) 	# Note: 5 
+ggplot(statef)+ geom_bar(aes(x=state.of.res,y=count),
+   stat="identity",              	# Note: 7 
+   fill="gray") + coord_flip() +  theme(axis.text.y=element_text(size=rel(0.8)))
+

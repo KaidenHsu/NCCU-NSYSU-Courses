@@ -1,0 +1,26 @@
+{
+    "id": "4446B424",
+    "path": "~/Desktop/Data Science/Codes/code03.measure/confusionMatrix.R",
+    "project_path": "confusionMatrix.R",
+    "type": "r_source",
+    "hash": "1155127845",
+    "contents": "",
+    "dirty": false,
+    "created": 1713716448972.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1489414420,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1489414420,
+    "read_only": false,
+    "read_only_alternatives": []
+}

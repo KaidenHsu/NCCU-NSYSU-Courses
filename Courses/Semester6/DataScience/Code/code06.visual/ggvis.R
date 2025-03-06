@@ -1,0 +1,118 @@
+## Install necessary packages 
+# install.packages("devtools") 
+library("devtools")
+# install.packages("ggvis")
+
+# Load packages
+library("ggvis")
+library("googleVis")
+library("rCharts")
+library("plotly")
+library("dplyr")
+library("tidyr")
+library("knitr")
+library("ggplot2")
+library("dplyr")
+library("shiny")
+
+# Define image sizes
+img.width <- 450
+img.height <- 300
+# Use mtcars data data(mtcars)
+mtcars$cyl <- factor(mtcars$cyl)
+mtcars$am <- factor(mtcars$am)
+# Compute mean mpg per cyl and am 
+mtcars.mean <- mtcars %>% group_by(cyl, am) %>% summarise(mpg_mean=mean(mpg)) %>% select(cyl, am, mpg_mean) %>% ungroup()
+# mtcars.mean <- mtcars %>% group_by(cyl, am) %>% summarise(mpg_mean=mean(mpg))  %>% ungroup()
+# mtcars.mean <- mtcars %>% group_by(am) %>% summarise(mpg_mean=mean(mpg)) %>% select(am, mpg_mean) %>% ungroup()
+
+# Histograms
+hist.ggplot <- ggplot(mtcars, aes(x=mpg)) + geom_histogram(binwidth=1)
+hist.ggplot
+
+hist.ggvis <- mtcars %>% ggvis(x = ~mpg) %>% layer_histograms(width=1) %>% 
+  set_options(width = img.width, height = img.height)
+hist.ggvis
+
+# Scatter plots
+scatter.ggplot <- ggplot(mtcars, aes(x=wt, y=mpg)) + geom_point()
+scatter.ggplot
+
+scatter.ggvis <- mtcars %>% ggvis(x = ~wt, y = ~mpg) %>% layer_points() %>% 
+  set_options(width = img.width, height = img.height)
+scatter.ggvis
+mtcars %>% ggvis(~wt, ~mpg) %>% layer_points() %>% 
+  layer_model_predictions(model = "lm", se = TRUE)
+
+# Scatter plots by group
+scatter.ggplot <- ggplot(mtcars, aes(x=wt, y=mpg, colour=cyl)) + 
+  geom_point()
+scatter.ggplot
+
+scatter.ggvis <- mtcars %>% ggvis(x = ~wt, y = ~mpg, fill = ~cyl) %>% 
+  layer_points() %>% set_options(width = img.width, height = img.height)
+scatter.ggvis
+mtcars %>% 
+  ggvis(~wt, ~mpg, fill = ~factor(cyl)) %>% 
+  layer_points() %>% 
+  group_by(cyl) %>% 
+  layer_model_predictions(model = "lm", se = TRUE)
+
+# Line plots
+line.ggplot <- ggplot(mtcars.mean, aes(x=cyl, y=mpg_mean, colour=am)) + geom_line(aes(group=am))
+line.ggplot
+
+line.ggvis <- mtcars.mean %>% ggvis(x = ~cyl, y = ~mpg_mean, stroke = ~am) %>% layer_lines() %>% set_options(width = img.width, height = img.height)
+line.ggvis
+
+# ggvis 
+# plot1
+p <- ggvis(mtcars, x = ~wt, y = ~mpg)
+layer_points(p)
+# plot2
+layer_points(ggvis(mtcars, x = ~wt, y = ~mpg))
+# plot3
+mtcars %>% ggvis(x = ~wt, y = ~mpg) %>% layer_points()
+
+# why %>%
+mtcars %>% 
+  ggvis(x = ~mpg, y = ~disp) %>% 
+  mutate(disp = disp / 61.0237) %>% # convert engine displacment to litres
+  layer_points()
+
+# Simple, which include primitives like points, lines and rectangles.
+mtcars %>% ggvis(~wt, ~mpg) %>% layer_points()
+# Compound, which combine data transformations with one or more simple layers.
+mtcars %>% ggvis(~mpg) %>% layer_histograms()
+# Multiple layers
+mtcars %>% ggvis(~wt, ~mpg) %>% layer_smooths() %>% 
+  layer_points()
+
+# original density computes kernel density estimates
+plot(density(mtcars$wt))
+plot(density(mtcars$wt, kernel="rectangular"))
+plot(density(mtcars$wt, kernel="gaussian"))
+plot(density(mtcars$wt, kernel="epanechnikov"))
+
+# interactive density plot
+mtcars %>% ggvis(x = ~wt) %>% 
+  layer_densities( adjust = input_slider(.1, 2, value = 1, step = .1, label = "Bandwidth adjustment"), 
+                   kernel = input_select( c("Gaussian" = "gaussian", "Epanechnikov" = "epanechnikov", "Rectangular" = "rectangular", "Triangular" = "triangular", "Biweight" = "biweight", "Cosine" = "cosine", "Optcosine" = "optcosine"), label = "Kernel") )
+
+
+mtcars %>% ggvis(~mpg, ~disp, size = ~vs) %>% 
+  layer_points()
+mtcars %>% ggvis(~wt, ~mpg, size := 300, opacity := 0.4) %>% 
+  layer_points()
+
+mtcars %>% ggvis(~wt, ~mpg, size := input_slider(10, 100), opacity := input_slider(0, 1) ) %>% 
+  layer_points()
+
+slider <- input_slider(10, 1000)
+mtcars %>% ggvis(~wt, ~mpg) %>% 
+  layer_points(fill := "red", opacity := 0.5, size := slider)
+
+keys_s <- left_right(10, 1000, step = 50)
+mtcars %>% ggvis(~wt, ~mpg, size := keys_s, opacity := 0.5) %>% 
+  layer_points()
+

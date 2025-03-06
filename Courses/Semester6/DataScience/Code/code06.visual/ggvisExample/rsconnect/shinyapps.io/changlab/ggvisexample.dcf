@@ -1,0 +1,10 @@
+name: ggvisexample
+title:
+username:
+account: changlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 95284
+bundleId: 1996637
+url: https://changlab.shinyapps.io/ggvisExample/
+when: 1554780489.27224

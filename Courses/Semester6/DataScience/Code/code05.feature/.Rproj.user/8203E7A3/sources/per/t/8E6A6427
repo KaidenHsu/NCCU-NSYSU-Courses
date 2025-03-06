@@ -1,0 +1,27 @@
+{
+    "id": "8E6A6427",
+    "path": "~/Desktop/Data Science/Codes/code05.feature/lime_iris_example.R",
+    "project_path": "lime_iris_example.R",
+    "type": "r_source",
+    "hash": "2827823659",
+    "contents": "",
+    "dirty": false,
+    "created": 1714832425266.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "41,0",
+        "scrollLine": "0",
+        "marks": "<:0,0\n>:41,-1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713871359,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713871359,
+    "read_only": false,
+    "read_only_alternatives": []
+}
