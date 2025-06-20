@@ -83,5 +83,16 @@ Course information and class slides for all the core courses I take in NCCU.
 [7.3]:Courses/Semester7/DataMining/DataMining.md
 
 ## Senior Spring
+1. [Electronic Circuits][8.1]
+2. [General Physics (II)][8.2]
+3. [Graph Theory][8.3]
+4. [Introduction to Software Engineering][8.4]
+5. [Video Compression][8.5]
+
+[8.1]:Courses/Semester8/ElectronicCircuits/ElectronicCircuits.md
+[8.2]:Courses/Semester8/GeneralPhysics(II)/GeneralPhysics(II).md
+[8.3]:Courses/Semester8/GraphTheory/GraphTheory.md
+[8.4]:Courses/Semester8/IntroToSWE/IntroToSWE.md
+[8.5]:Courses/Semester8/VideoCompression/VideoCompression.md
 
 ![University](images/Uni.jpg)
