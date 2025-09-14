@@ -1,4 +1,4 @@
-# 🏫 NSYSU-Course
+# 🏫 NSYSU-Courses
 ## Freshman Fall
 1. Design and Implementation of Arithmetic Units
 2. System Design Using FPGA
@@ -7,7 +7,7 @@
 
 ![NSYSU](Images/NSYSU.jpg)
 
-# 🎓 NCCU-Course
+# 🎓 NCCU-Courses
 ## Freshman Fall
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
