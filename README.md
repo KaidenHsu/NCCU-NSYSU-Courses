@@ -1,6 +1,11 @@
-# 🏫 NCCU-Course
-Course information and class slides for all the core courses I take in NCCU.
+# 🏫 NSYSU-Course
+## Freshman Fall
+1. Design and Implementation of Arithmetic Units
+2. System Design Using FPGA
+3. Computer Network
+4. Embedded System Practice
 
+# 🎓 NCCU-Course
 ## Freshman Fall
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
@@ -95,4 +100,4 @@ Course information and class slides for all the core courses I take in NCCU.
 [8.4]:Courses/Semester8/IntroToSWE/IntroToSWE.md
 [8.5]:Courses/Semester8/VideoCompression/VideoCompression.md
 
-![University](images/Uni.jpg)
+![University](Images/Uni.jpg)
