@@ -5,6 +5,8 @@
 3. Computer Network
 4. Embedded System Practice
 
+![NSYSU](Images/NSYSU.jpg)
+
 # 🎓 NCCU-Course
 ## Freshman Fall
 1. [Calculus A 1][1.1]
@@ -100,4 +102,4 @@
 [8.4]:Courses/Semester8/IntroToSWE/IntroToSWE.md
 [8.5]:Courses/Semester8/VideoCompression/VideoCompression.md
 
-![University](Images/Uni.jpg)
+![NCCU](Images/NCCU.jpg)
