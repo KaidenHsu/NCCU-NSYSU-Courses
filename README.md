@@ -1,14 +1,23 @@
 # 🏫 NSYSU-Courses
+
 ## Freshman Fall
-1. Design and Implementation of Arithmetic Units
-2. System Design Using FPGA
-3. Computer Network
-4. Embedded System Practice
+
+1. [Computer Network][9.1]
+2. [Design and Implementation of Arithmetic Units][9.2]
+3. [Embedded System Practice][9.3]
+4. [System Design Using FPGA][9.4]
+
+[9.1]:Courses/Semester9/ComputerNetwork/ComputerNetwork.md
+[9.2]:Courses/Semester9/DesignAndImplementationOfArithmeticUnits/DesignAndImplementationOfArithmeticUnits.md
+[9.3]:Courses/Semester9/EmbeddedSystemPractice/EmbeddedSystemPractice.md
+[9.4]:Courses/Semester9/SystemDesignUsingFPGA/SystemDesignUsingFPGA.md
 
 ![NSYSU](Images/NSYSU.jpg)
 
 # 🎓 NCCU-Courses
+
 ## Freshman Fall
+
 1. [Calculus A 1][1.1]
 2. [Computer Programming 1][1.2]
 3. [Computer Programming 1 Lab][1.3]
@@ -20,6 +29,7 @@
 [1.4]:Courses/Semester1/IntroductionToComputerScience/IntroductionToComputerScience.md
 
 ## Freshman Spring
+
 1. [Calculus A 2][2.1]
 2. [Computer Programming 2][2.2]
 3. [Computer Programming 2 Lab][2.3]
@@ -29,6 +39,7 @@
 [2.3]:Courses/Semester2/ComputerProgramming2Lab/ComputerProgramming2Lab.md
 
 ## Sophomore Fall
+
 1. [Data Structures][3.1]
 2. [Discrete Mathematics][3.2]
 3. [Object-oriented Programming][3.3]
@@ -40,6 +51,7 @@
 [3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/ObjectOrientedProgrammingLab.md
 
 ## Sophomore Spring
+
 1. [Advanced Mobile Communication Network][4.1]
 1. [Algorithms][4.2]
 2. [Digital System Labs][4.3]
@@ -53,6 +65,7 @@
 [4.5]:Courses/Semester4/IntroductionToDigitalSystem/IntroductionToDigitalSystem.md
 
 ## Junior Fall
+
 1. [Computer Architecture and Organization][5.1]
 2. [Operating System][5.2]
 3. [Mobile Communication Network][5.3]
@@ -66,6 +79,7 @@
 [5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
 
 ## Junior Spring
+
 1. [Data Science][6.1]
 2. [Database System][6.2]
 3. [Distributed Systems][6.3]
@@ -81,6 +95,7 @@
 [6.6]:Courses/Semester6/NaturalLanguageProcessing
 
 ## Senior Fall
+
 1. [Information Visualization][7.1]
 2. [Virtual Reality Haptic Interactions][7.2]
 3. [Data Mining][7.3]
@@ -90,6 +105,7 @@
 [7.3]:Courses/Semester7/DataMining/DataMining.md
 
 ## Senior Spring
+
 1. [Electronic Circuits][8.1]
 2. [General Physics (II)][8.2]
 3. [Graph Theory][8.3]

@@ -1,6 +1,7 @@
 # Electronic Circuits
 
 ## Course Details
+
 - Type of Credit: Elective
 - Credits: 3
 - Course Department: Electrophysics/B/4
@@ -9,11 +10,13 @@
 - Session: wed09-12
 
 ## Course Description
+
 This is a hybrid course with both online lecture and in class laboratory. Online lectures introduce basic concepts of electrical circuits. The contents include direct and alternative circuit analysis, characteristics of semiconductor electronic circuit. The in-class laboratory includes the implementation of several fundamental electronic circuits such as amplifier, filter, oscillator etc.
 
 For the online lecture, please join the NCCU google classroom web site (to be announced) using student’s NCCU google suite account, which will be in the form of ID@g.nccu.edu.tw.
 
 ## Course Schedule & Requirements
+
 | 週次 | 課程主題       | 課程內容與指定閱讀        | 教學活動與作業  | 學習投入時數（課堂及課程前後） |
 |------|----------------|-----------------------------|-----------------|------------------------------|
 | 1    | 課程介紹       | 課程大綱與認識儀器          | 課程講義        | 2.0 / 2.5                    |
@@ -33,4 +36,4 @@ For the online lecture, please join the NCCU google classroom web site (to be an
 | 15   | 學期評量       | 筆試                         | 筆試            | 2.0 / 2.5                    |
 | 16   | 學期評量       | 實作                         | 實作成果        | 2.0 / 2.5                    |
 | 17   | 彈性補充       | 線上學習評量（時數分散於週間）|                 | 3.0 / 1.0                    |
-| 18   | 彈性補充       | 線上學習評量（時數分散於週間）|                 | 3.0 / 1.0                    |## Course Schedule & Requirements
+| 18   | 彈性補充       | 線上學習評量（時數分散於週間）|                 | 3.0 / 1.0                    |
