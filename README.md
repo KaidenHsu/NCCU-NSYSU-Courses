@@ -1,4 +1,4 @@
-# 🏫 NSYSU (Master's Degree) 國立中山大學 電機工程學系碩士
+# 🏫 NSYSU Master's 國立中山大學 電機工程學系碩士
 
 ## First Semester 碩一上
 
@@ -14,7 +14,7 @@
 
 ![NSYSU](Images/NSYSU.jpg)
 
-# 🎓 NCCU (Bachelor's Degree) 國立政治大學 資訊科學系學士
+# 🎓 NCCU Bachelor's 國立政治大學 資訊科學系學士
 
 ## Freshman Fall 大一上
 
