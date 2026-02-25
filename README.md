@@ -2,15 +2,11 @@
 
 ## First Semester 碩一上
 
-1. [Computer Network 計算機網路][9.1]
-2. [Design and Implementation of Arithmetic Units 算術處理器設計與實務][9.2]
-3. [Embedded System Practice 嵌入式系統實務][9.3]
-4. [System Design Using FPGA FPGA實務][9.4]
+1. Computer Architecture 計算機結構
+2. Open Source Prototype Systems and Applications 開源式雛型系統與應用
+3. SOPC Design Practice and FPGA System Design SOPC設計實務及FPGA系統整合設計
 
-[9.1]:Courses/Semester9/ComputerNetwork/ComputerNetwork.md
-[9.2]:Courses/Semester9/DesignAndImplementationOfArithmeticUnits/DesignAndImplementationOfArithmeticUnits.md
-[9.3]:Courses/Semester9/EmbeddedSystemPractice/EmbeddedSystemPractice.md
-[9.4]:Courses/Semester9/SystemDesignUsingFPGA/SystemDesignUsingFPGA.md
+
 
 ![NSYSU](Images/NSYSU.jpg)
 
