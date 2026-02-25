@@ -1,6 +1,6 @@
 # 🏫 NSYSU Master's 中山電機(系統晶片組)碩士
 
-## First Semester 碩一上
+## First Semester 碩一下
 
 1. Computer Architecture 計算機結構
 2. Open Source Prototype Systems and Applications 開源式雛型系統與應用
