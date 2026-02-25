@@ -1,4 +1,4 @@
-# 🏫 NSYSU Master's 中山電機(積體電路設計研究所)碩士
+# 🏫 NSYSU Master's 中山電機(系統晶片組)碩士
 
 ## First Semester 碩一上
 
