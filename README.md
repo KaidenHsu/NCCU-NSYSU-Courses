@@ -1,18 +1,16 @@
-# 🏫 NSYSU Master's 中山電機(系統晶片組)碩士
+# NSYSU EE (SoC) Master's 中山電機(系統晶片組) 碩士
 
-## First Semester 碩一下
+## 2026 Spring
 
 1. Computer Architecture 計算機結構
 2. Open Source Prototype Systems and Applications 開源式雛型系統與應用
 3. SOPC Design Practice and FPGA System Design SOPC設計實務及FPGA系統整合設計
 
-
-
 ![NSYSU](Images/NSYSU.jpg)
 
-# 🎓 NCCU Bachelor's 政大資科(人工智慧組)學士
+# NCCU CS Bachelor's 政大資科(人工智慧組) 學士
 
-## Freshman Fall 大一上
+## 2022 Fall
 
 1. [Calculus A 1 微積分甲][1.1]
 2. [Computer Programming 1 計算機程式設計(一)][1.2]
@@ -24,7 +22,7 @@
 [1.3]:Courses/Semester1/ComputerProgramming1Lab/ComputerProgramming1Lab.md
 [1.4]:Courses/Semester1/IntroductionToComputerScience/IntroductionToComputerScience.md
 
-## Freshman Spring 大一下
+## 2022 Spring
 
 1. [Calculus A 2 微積分甲][2.1]
 2. [Computer Programming 2 計算機程式設計(二)][2.2]
@@ -34,7 +32,7 @@
 [2.2]:Courses/Semester2/ComputerProgramming2/ComputerProgramming2.md
 [2.3]:Courses/Semester2/ComputerProgramming2Lab/ComputerProgramming2Lab.md
 
-## Sophomore Fall 大二上
+## 2023 Fall
 
 1. [Data Structures 資料結構][3.1]
 2. [Discrete Mathematics 離散數學][3.2]
@@ -46,7 +44,7 @@
 [3.3]:Courses/Semester3/ObjectOrientedProgramming/ObjectOrientedProgramming.md
 [3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/ObjectOrientedProgrammingLab.md
 
-## Sophomore Spring 大二下
+## 2023 Spring
 
 1. [Advanced Mobile Communication Network 進階行動通訊網路][4.1]
 1. [Algorithms 演算法][4.2]
@@ -60,7 +58,7 @@
 [4.4]:Courses/Semester4/LinearAlgebra/LinearAlgebra.md
 [4.5]:Courses/Semester4/IntroductionToDigitalSystem/IntroductionToDigitalSystem.md
 
-## Junior Fall 大三上
+## 2024 Fall
 
 1. [Computer Architecture and Organization 計算機結構與組織][5.1]
 2. [Operating System 作業系統][5.2]
@@ -74,7 +72,7 @@
 [5.4]:Courses/Semester5/ComputationalThinkingAndIntroductionToArtificialIntelligence/ComputationalThinkingAndIntroductionToArtificialIntelligence.md
 [5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
 
-## Junior Spring 大三下
+## 2024 Spring
 
 1. [Data Science 資料科學][6.1]
 2. [Database System 資料庫系統][6.2]
@@ -90,7 +88,7 @@
 [6.5]:Courses/Semester6/IntroductionToDataCommunicationsAndNetworking/IntroductionToDataCommunicationsAndNetworking.md
 [6.6]:Courses/Semester6/NaturalLanguageProcessing
 
-## Senior Fall 大四上
+## 2025 Fall
 
 1. [Information Visualization 資訊視覺化][7.1]
 2. [Virtual Reality Haptic Interactions 虛擬實境與觸覺回饋互動][7.2]
@@ -100,7 +98,7 @@
 [7.2]:Courses/Semester7/VirtualRealityHapticInteractions/VirtualRealityHapticInteractions.md
 [7.3]:Courses/Semester7/DataMining/DataMining.md
 
-## Senior Spring 大四下
+## 2025 Spring
 
 1. [Electronic Circuits 電子電路學][8.1]
 2. [General Physics (II) 普通物理學(二)][8.2]
