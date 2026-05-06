@@ -1,4 +1,4 @@
-# NSYSU EE (SoC) Master's | 中山電機(系統晶片組) 碩士
+# NSYSU EE (SoC) M.S. | 中山電機 (系統晶片組) 碩士
 
 ## 2026 Spring
 
@@ -8,7 +8,7 @@
 
 ![NSYSU](Images/NSYSU.jpg)
 
-# NCCU CS (AI) Bachelor's | 政大資科(人工智慧組) 學士
+# NCCU CS (AI) B.S. | 政大資科 (人工智慧組) 學士
 
 ## 2022 Fall
 
