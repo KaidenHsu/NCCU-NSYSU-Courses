@@ -15,21 +15,23 @@
 - 修課同學須自備筆記型電腦
 
 ## Course Schedule & Requirements
-- 第一週: Course Introduction: 教學大綱: 上課方式、課程要求、評分標準  / 課堂講授 上課3/課後3
-- 第二週: Software Architecture Overview, Software Quality Attributes and Design Trade-Offs / 課堂講授與Lab 上課3/課後3
-- 第三週: Network / 課堂講授與Lab 上課3/課後3
-- 第四週: IPC / 課堂講授與Lab 上課3/課後3
-- 第五週: Remoting (Cases: Java RMI, EJB3, gRPC)/ 課堂講授與Lab 上課3/課後3
-- 第六週: Indirect Communication (Group Communication、MOM、 Shared Memory) / 課堂講授與Lab 上課3/課後3
-- 第七週: Naming and Discovery (Cases:  UPnP  mDNS/DNS-SD) / 課堂講授與Lab 上課3/課後3
-- 第八週: Coordination / 課堂講授與Lab 上課3/課後3
-- 第九週: 期中考 
-- 第十週: Enterprise Application Architecture
-- 第十一週:  DevOps and Cloud Native Trends
-- 第十二週: Virtualization (Virtual Machine and Docker) / 課堂講授與Lab 上課3/課後3
-- 第十三週: Microservices / 課堂講授與Lab 上課3/課後3
-- 第十四週: 校慶運動會停課
-- 第十五週: Distributed Transactions / 課堂講授與Lab 上課3/課後3
-- 第十六週: Event Scourcing and CQRS / 課堂講授與Lab 上課3/課後3
-- 第十七週: 端午節假期
-- 第十八週: Project Demo
+| Week | Topic / Notes |
+|------|---------------|
+| 1    | Course Introduction: syllabus, course format, requirements / Lecture (in-class 3 / after-class 3) |
+| 2    | Software Architecture Overview; Software Quality Attributes and Design Trade-Offs / Lecture & Lab (3/3) |
+| 3    | Network / Lecture & Lab (3/3) |
+| 4    | IPC / Lecture & Lab (3/3) |
+| 5    | Remoting (Java RMI, EJB3, gRPC) / Lecture & Lab (3/3) |
+| 6    | Indirect Communication (Group Communication, MOM, Shared Memory) / Lecture & Lab (3/3) |
+| 7    | Naming and Discovery (UPnP, mDNS/DNS-SD) / Lecture & Lab (3/3) |
+| 8    | Coordination / Lecture & Lab (3/3) |
+| 9    | 期中考 |
+| 10   | Enterprise Application Architecture |
+| 11   | DevOps and Cloud Native Trends |
+| 12   | Virtualization (VM and Docker) / Lecture & Lab (3/3) |
+| 13   | Microservices / Lecture & Lab (3/3) |
+| 14   | 校慶運動會停課 |
+| 15   | Distributed Transactions / Lecture & Lab (3/3) |
+| 16   | Event Sourcing and CQRS / Lecture & Lab (3/3) |
+| 17   | 端午節假期 |
+| 18   | Project Demo |

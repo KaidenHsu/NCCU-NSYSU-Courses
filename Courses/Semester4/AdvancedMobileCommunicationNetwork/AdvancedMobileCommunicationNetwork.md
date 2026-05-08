@@ -12,14 +12,16 @@
 Introduce the advanced topics of system, architecture, technology, and application of the 5G/6G mobile communication network.
 
 ## Course Schedule & Requirements
-- [Week 1-2] Overview of 5G/6G Network
-- [Week 3-4] 5G Spectrum Utilization and Spectrum Management
-- [Week 5-6] NR Protocol Stack
-- [Week 7-8] Wireless Relaying in 5G
-- [Week 9] Labs
-- [Week 10] Small Cells
-- [Week 11-12] Non-terrestrial Networks
-- [Week 13-14] 5G Security
-- [Week 15] O-RAN
-- [Week 16] Operations, Administration, and Management
-- [Week 17-18] Student presentation
+| Week(s) | Topic / Notes |
+|---------|---------------|
+| 1-2     | Overview of 5G/6G Network |
+| 3-4     | 5G Spectrum Utilization and Spectrum Management |
+| 5-6     | NR Protocol Stack |
+| 7-8     | Wireless Relaying in 5G |
+| 9       | Labs |
+| 10      | Small Cells |
+| 11-12   | Non-terrestrial Networks |
+| 13-14   | 5G Security |
+| 15      | O-RAN |
+| 16      | Operations, Administration, and Management |
+| 17-18   | Student presentation |

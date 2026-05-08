@@ -15,38 +15,23 @@
 先備技術： Python, DBMS, Github
 
 ## Course Schedule & Requirements
-第一週 Introduction to Data Mining (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習3 hr.)
-
-第二週 Frequent Pattern Mining: Apriori Algorithms, FP-Trees (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第三週 Frequent Pattern Mining: Quantitative Association Rules, Ratio Rules (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第四週 Frequent Pattern Mining: Association and Causial Relatiobships, Applications  (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第五週 國慶日放假、彈性補充教學：線上課程(影片觀摩) AI and Democracy,  Keynote Speech By Prof. Lawrence Lessig 
-
-第六週 Classification Algorithms: Introduction, Decision Tree, Rule-based Classisifer (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第七週 Classification Algorithms: Associated Classification, Naïve Bayes Classifier, K-NN (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第八週 Classification Algorithms: Support Vector Machines, Ensemble Algorithms(指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第九週 期中考
-
-第十週 Classification Algorithms: Feature Engineering, Data Imbalance, Data Leakage (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第十一週 Clustering：Introduction, Similarity and Distance, K-Means (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第十二週 Clustering: Hierarchical Clustering, Chameleon (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第十三週 Clustering: DBscan, Gausian Mixture Model(指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.)
-
-第十四週 Data Warehousing and Online Analytical Processing (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.)
-
-第十五週 Dimensionality Reduction: Singular Value Decomposition, PCA (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.)
-
-第十六週  Recommendation: Content-based, Collaborative-based Filtering, Matrix Factorization (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.)
-
-第十七週 期末考
-
-第十八週 彈性補充教學：專題展示
+| Week | Topic / Notes |
+|------|---------------|
+| 1 | Introduction to Data Mining (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習3 hr.) |
+| 2 | Frequent Pattern Mining: Apriori Algorithms, FP-Trees (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 3 | Frequent Pattern Mining: Quantitative Association Rules, Ratio Rules (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 4 | Frequent Pattern Mining: Association and Causial Relationships, Applications (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 5 | 國慶日放假、彈性補充教學：線上課程(影片觀摩) AI and Democracy, Keynote Speech By Prof. Lawrence Lessig |
+| 6 | Classification Algorithms: Decision Trees, Rule-based Classifiers (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 7 | Classification Algorithms: Associated Classification, Naïve Bayes, K-NN (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 8 | Classification Algorithms: SVM, Ensemble Algorithms (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 9 | 期中考 |
+| 10 | Classification Algorithms: Feature Engineering, Data Imbalance, Data Leakage (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 11 | Clustering: Introduction, Similarity and Distance, K-Means (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 12 | Clustering: Hierarchical Clustering, Chameleon (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 13 | Clustering: DBSCAN, Gaussian Mixture Models (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習4 hr.) |
+| 14 | Data Warehousing and OLAP (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.) |
+| 15 | Dimensionality Reduction: SVD, PCA (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.) |
+| 16 | Recommendation: Content-based, Collaborative Filtering, Matrix Factorization (指定閱讀課本, 講課與討論, 課前預習1 hr., 課後複習5 hr.) |
+| 17 | 期末考 |
+| 18 | 彈性補充教學：專題展示 |

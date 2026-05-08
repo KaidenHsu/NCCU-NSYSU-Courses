@@ -20,80 +20,23 @@
 第一週有簽到的同學且在遞補名單上，才可以印出加簽單加簽
 
 ## Course Schedule & Requirements
-每週教學時數3小時，課前課後學生投入時間3小時
-
-### Week 1: Introduction
-- What's Vis, and Why Do It?
-- Why have a Human/Computer in the Loop?
-- Why focus on Tasks/Effectiveness?  
-課堂講授
-
-### Week 2: What: Data abstraction
-- Data type, Attribute type, and Semantics  
-課堂講授、資料收集
-
-### Week 3: Why: Task abstraction
-- Actions: analyze, produce, search, and query
-- Target  
-課堂講授、題目構思
-
-### Week 4: Analysis: Four level design
-- Four level design
-- Validation approaches  
-課堂講授、程式上機 - 視覺分析
-
-### Week 5: Marks and Channels
-- Definition of Marks and Channels
-- Validation approaches  
-課堂講授、程式上機 - Marks
-
-### Week 6: Rules of Thumb
-- Justification and Alternatives
-- Memory and attention  
-課堂講授、分組提案報告
-
-### Week 7: Arrange Tables & Arrange Spatial Data
-- Separate, Order, and Align; Spatial Axis Orientation and layout density
-- Geometry; Scalar field, Vector field, and Tensor field  
-課堂講授
-
-### Week 8: Arrange Networks and Trees
-- Connections
-- Matrix view  
-課堂講授
-
-### Week 9: Midterm  
-期中考試
-
-### Week 10: Map Color and Other Channels
-- Color theory, Color maps, and Other channels  
-課堂講授、程式上機
-
-### Week 11: Manipulate View
-- Change view over time
-- Select elements and navigation  
-課堂講授
-
-### Week 12: Facet into Multiple Views
-- Juxtapose and coordinate view
-- Partition into view  
-課堂講授
-
-### Week 13: 自主學習  
-
-### Week 14: Reduce Items and Attributes
-- Filter and aggregation  
-課堂講授
-
-### Week 15: Embed: Focus+Context
-- Focus+Context related paper  
-課堂講授
-
-### Week 16: Analysis Case Studies (1)
-- Selected paper  
-案例介紹
-
-### Week 17: Final Project Presentation
-- 期末分組報告
-
-### Week 18: 自主學習
+| Week | Topic | Notes |
+|------|-------|-------|
+| 1 | Introduction: What's Vis, and Why Do It? | Why have a Human/Computer in the Loop?; Why focus on Tasks/Effectiveness?; 課堂講授 |
+| 2 | What: Data abstraction | Data type, Attribute type, and Semantics; 課堂講授、資料收集 |
+| 3 | Why: Task abstraction | Actions: analyze, produce, search, and query; Target; 課堂講授、題目構思 |
+| 4 | Analysis: Four level design | Four level design; Validation approaches; 課堂講授、程式上機 - 視覺分析 |
+| 5 | Marks and Channels | Definition of Marks and Channels; Validation approaches; 課堂講授、程式上機 - Marks |
+| 6 | Rules of Thumb | Justification and Alternatives; Memory and attention; 課堂講授、分組提案報告 |
+| 7 | Arrange Tables & Arrange Spatial Data | Separate, Order, Align; Spatial Axis Orientation, layout density; Geometry; Scalar/Vector/Tensor fields; 課堂講授 |
+| 8 | Arrange Networks and Trees | Connections; Matrix view; 課堂講授 |
+| 9 | Midterm | 期中考試 |
+| 10 | Map Color and Other Channels | Color theory, Color maps, Other channels; 課堂講授、程式上機 |
+| 11 | Manipulate View | Change view over time; Select elements and navigation; 課堂講授 |
+| 12 | Facet into Multiple Views | Juxtapose and coordinate view; Partition into view; 課堂講授 |
+| 13 | 自主學習 |  |
+| 14 | Reduce Items and Attributes | Filter and aggregation; 課堂講授 |
+| 15 | Embed: Focus+Context | Focus+Context related paper; 課堂講授 |
+| 16 | Analysis Case Studies (1) | Selected paper; 案例介紹 |
+| 17 | Final Project Presentation | 期末分組報告 |
+| 18 | 自主學習 |  |

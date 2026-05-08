@@ -12,65 +12,15 @@
 This course will be taught based on the textbook "Computer Organization and Design." It covers all the essential concepts of how basic components of computers work, including CPUs, memory systems, I/Os, and interfaces between software and hardware. 。
 
 ## Course Schedule & Requirements
-- **Week 1**
-  - **Subject:** Introduction & syllabus  
-  - **Covering topics:** Introduction to Computer Architecture and Organization  
-  - **Reading:** Chapter 1 (Textbook)  
-  - **Teaching/HW:** Explain the syllabus and illustrate the history of computer development  
-  - **Hours spent for preview:** N/A  
-  - **Hours spent for review:** 1 hour  
-
-- **Week 2 & 3**
-  - **Subject:** Performance Metrics and MIPS  
-  - **Covering topics:** CPU times, Clock cycles per instruction (CPI), Power consumption, Amdahl's Law, MIPS  
-  - **Reading:** Chapter 1, 2 (Textbook)  
-  - **Teaching/HW:** Get familiar with how to measure the performance of a computer. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 4 & 5**
-  - **Subject:** MIPS  
-  - **Covering topics:** MIPS Assembly Language  
-  - **Reading:** Chapter 2 (Textbook)  
-  - **Teaching/HW:** Teaching how to program with MIPS. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 6 & 7**
-  - **Subject:** Arithmetic for Computers  
-  - **Covering topics:** Addition, Subtraction, Multiplication, Signed Multiplication, Booth's algorithm, Division, Floating-Point Arithmetic, and the Structure of a CPU  
-  - **Reading:** Chapter 3 (Textbook)  
-  - **Teaching/HW:** Teaching arithmetic for computers. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 8 & 10**
-  - **Subject:** The Structure of a CPU  
-  - **Covering topics:** Building a Datapath, Pipelined Datapath, Hazards  
-  - **Reading:** Chapter 4 (Textbook)  
-  - **Teaching/HW:** Explain the principles and techniques used in implementing a processor. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 9**
-  - **Subject:** Midterm Exam  
-
-- **Week 11, 12 & 13**
-  - **Subject:** Data and Control Path  
-  - **Covering topics:** Pipelined Control, Hazards  
-  - **Reading:** Chapter 4 (Textbook)  
-  - **Teaching/HW:** Explain the principles and techniques used in implementing a processor. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 14 & 15**
-  - **Subject:** Memory Hierarchy  
-  - **Covering topics:** Memory technologies, caches, virtual memory, parallelism, and memory hierarchy  
-  - **Reading:** Chapter 5 (Textbook)  
-  - **Teaching/HW:** Explain the memory hierarchy based on the principle of locality. Homework will be released after each chapter ends.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 16 & 17**
-  - **Subject:** Parallel Processors and Peripherals (Flexible Teaching)  
-  - **Covering topics:** SISD, MIMD, SIMD, SPMD, Vector, and GPUs  
-  - **Reading:** Chapter 6  
-  - **Teaching/HW:** Explain how parallel processors and multithreading work.  
-  - **Hours spent for preview and review:** 2 hours each  
-
-- **Week 18**
-  - **Subject:** Final Exam  
+| Week(s) | Subject / Covering topics | Reading | Teaching / HW | Hours (preview / review) |
+|---------|---------------------------|---------|---------------|-------------------------:|
+| Week 1 | Introduction & syllabus — Introduction to Computer Architecture and Organization | Chapter 1 (Textbook) | Explain the syllabus and illustrate the history of computer development | N/A / 1h |
+| Week 2 & 3 | Performance Metrics and MIPS — CPU times, Clock cycles per instruction (CPI), Power consumption, Amdahl's Law, MIPS | Chapter 1, 2 (Textbook) | Get familiar with performance measurement; homework released after each chapter | 2h / 2h |
+| Week 4 & 5 | MIPS — MIPS Assembly Language | Chapter 2 (Textbook) | Teaching how to program with MIPS; homework released after each chapter | 2h / 2h |
+| Week 6 & 7 | Arithmetic for Computers — Addition, Subtraction, Multiplication, Signed Multiplication, Booth's algorithm, Division, Floating-Point Arithmetic, and the Structure of a CPU | Chapter 3 (Textbook) | Teaching arithmetic for computers; homework released after each chapter | 2h / 2h |
+| Week 8 & 10 | The Structure of a CPU — Building a Datapath, Pipelined Datapath, Hazards | Chapter 4 (Textbook) | Explain processor implementation principles; homework released after each chapter | 2h / 2h |
+| Week 9 | Midterm Exam | — | — | — |
+| Week 11, 12 & 13 | Data and Control Path — Pipelined Control, Hazards | Chapter 4 (Textbook) | Explain processor implementation principles; homework released after each chapter | 2h / 2h |
+| Week 14 & 15 | Memory Hierarchy — Memory technologies, caches, virtual memory, parallelism, and memory hierarchy | Chapter 5 (Textbook) | Explain the memory hierarchy based on locality; homework released after each chapter | 2h / 2h |
+| Week 16 & 17 | Parallel Processors and Peripherals (Flexible Teaching) — SISD, MIMD, SIMD, SPMD, Vector, and GPUs | Chapter 6 | Explain how parallel processors and multithreading work | 2h / 2h |
+| Week 18 | Final Exam | — | — | — |
