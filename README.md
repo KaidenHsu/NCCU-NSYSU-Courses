@@ -2,9 +2,13 @@
 
 ## 2026 Spring
 
-1. Computer Architecture | 計算機結構
-2. Open Source Prototype Systems and Applications | 開源式雛型系統與應用
-3. SOPC Design Practice and FPGA System Design | SOPC設計實務及FPGA系統整合設計
+1. [Computer Architecture | 計算機結構][9.1]
+2. [Open Source Prototype Systems and Applications | 開源式雛型系統與應用][9.2]
+3. [SOPC Design Practice and FPGA System Design | SOPC設計實務及FPGA系統整合設計][9.3]
+
+[9.1]: https://github.com/KaidenHsu/Computer-Architecture
+[9.2]: https://github.com/KaidenHsu/Open-Source-Prototype-Systems
+[9.3]: https://github.com/KaidenHsu/SOPC-System-Design
 
 ![NSYSU](Images/NSYSU.jpg)
 
