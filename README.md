@@ -21,10 +21,10 @@
 3. [Computer Programming 1 Lab | 計算機程式設計(一)實驗][1.3]
 4. [Introduction to Computer Science | 計算機概論][1.4]
 
-[1.1]:Courses/Semester1/CalculusA1/CalculusA1.md
-[1.2]:Courses/Semester1/ComputerProgramming1/ComputerProgramming1.md
-[1.3]:Courses/Semester1/ComputerProgramming1Lab/ComputerProgramming1Lab.md
-[1.4]:Courses/Semester1/IntroductionToComputerScience/IntroductionToComputerScience.md
+[1.1]:Courses/Semester1/CalculusA1/
+[1.2]:Courses/Semester1/ComputerProgramming1/
+[1.3]:Courses/Semester1/ComputerProgramming1Lab/
+[1.4]:Courses/Semester1/IntroductionToComputerScience/
 
 ## 2022 Spring
 
@@ -32,9 +32,9 @@
 2. [Computer Programming 2 | 計算機程式設計(二)][2.2]
 3. [Computer Programming 2 Lab | 計算機程式設計(二)實驗][2.3]
 
-[2.1]:Courses/Semester2/CalculusA2/CalculusA2.md
-[2.2]:Courses/Semester2/ComputerProgramming2/ComputerProgramming2.md
-[2.3]:Courses/Semester2/ComputerProgramming2Lab/ComputerProgramming2Lab.md
+[2.1]:Courses/Semester2/CalculusA2/
+[2.2]:Courses/Semester2/ComputerProgramming2/
+[2.3]:Courses/Semester2/ComputerProgramming2Lab/
 
 ## 2023 Fall
 
@@ -43,10 +43,10 @@
 3. [Object-oriented Programming | 物件導向程式設計][3.3]
 4. [Object-oriented Programming Lab | 物件導向程式設計實驗][3.4]
 
-[3.1]:Courses/Semester3/DataStructures/DataStructures.md
-[3.2]:Courses/Semester3/DiscreteMathematics/DiscreteMathematics.md
-[3.3]:Courses/Semester3/ObjectOrientedProgramming/ObjectOrientedProgramming.md
-[3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/ObjectOrientedProgrammingLab.md
+[3.1]:Courses/Semester3/DataStructures/
+[3.2]:Courses/Semester3/DiscreteMathematics/
+[3.3]:Courses/Semester3/ObjectOrientedProgramming/
+[3.4]:Courses/Semester3/ObjectOrientedProgrammingLab/
 
 ## 2023 Spring
 
@@ -56,11 +56,11 @@
 3. [Linear Algebra | 線性代數][4.4]
 4. [Introduction to Digital System | 數位系統導論][4.5]
 
-[4.1]:Courses/Semester4/AdvancedMobileCommunicationNetwork/AdvancedMobileCommunicationNetwork.md
-[4.2]:Courses/Semester4/Algorithms/Algorithms.md
-[4.3]:Courses/Semester4/DigitalSystemLabs/DigitalSystemLabs.md
-[4.4]:Courses/Semester4/LinearAlgebra/LinearAlgebra.md
-[4.5]:Courses/Semester4/IntroductionToDigitalSystem/IntroductionToDigitalSystem.md
+[4.1]:Courses/Semester4/AdvancedMobileCommunicationNetwork/
+[4.2]:Courses/Semester4/Algorithms/
+[4.3]:Courses/Semester4/DigitalSystemLab/
+[4.4]:Courses/Semester4/LinearAlgebra/
+[4.5]:Courses/Semester4/IntroductionToDigitalSystem/
 
 ## 2024 Fall
 
@@ -70,11 +70,11 @@
 4. [Computational Thinking and Introduction to Artificial Intelligence | 計算思維與人工智慧應用導論][5.4]
 5. [3D Game Programming | 3D 遊戲程式設計][5.5]
 
-[5.1]:Courses/Semester5/ComputerArchitectureAndOrganization/ComputerArchitectureAndOrganization.md
-[5.2]:Courses/Semester5/OperatingSystem/OperatingSystem.md
-[5.3]:Courses/Semester5/MobileCommunicationNetwork/MobileCommunicationNetwork.md
-[5.4]:Courses/Semester5/ComputationalThinkingAndIntroductionToArtificialIntelligence/ComputationalThinkingAndIntroductionToArtificialIntelligence.md
-[5.5]:Courses/Semester5/3DGameProgramming/3DGameProgramming.md
+[5.1]:Courses/Semester5/ComputerArchitectureAndOrganization/
+[5.2]:Courses/Semester5/OperatingSystem/
+[5.3]:Courses/Semester5/MobileCommunicationNetwork/
+[5.4]:Courses/Semester5/ComputationalThinkingAndIntroductionToArtificialIntelligence/
+[5.5]:Courses/Semester5/3DGameProgramming/
 
 ## 2024 Spring
 
@@ -85,12 +85,12 @@
 5. [Introduction to Data Communications and Networking | 網路與通訊概論][6.5]
 6. [Natural Language Processing | 自然語言處理][6.6]
 
-[6.1]:Courses/Semester6/DataScience/DataScience.md
-[6.2]:Courses/Semester6/DatabaseSystem/DatabaseSystem.md
-[6.3]:Courses/Semester6/DistributedSystems/DistributedSystems.md
-[6.4]:Courses/Semester6/IntroductionToArtificialIntelligence/IntroductionToArtificialIntelligence.md
-[6.5]:Courses/Semester6/IntroductionToDataCommunicationsAndNetworking/IntroductionToDataCommunicationsAndNetworking.md
-[6.6]:Courses/Semester6/NaturalLanguageProcessing
+[6.1]:Courses/Semester6/DataScience/
+[6.2]:Courses/Semester6/DatabaseSystem/
+[6.3]:Courses/Semester6/DistributedSystems/
+[6.4]:Courses/Semester6/IntroductionToArtificialIntelligence/
+[6.5]:Courses/Semester6/IntroductionToDataCommunicationsAndNetworking/
+[6.6]:Courses/Semester6/NaturalLanguageProcessing/
 
 ## 2025 Fall
 
@@ -98,9 +98,9 @@
 2. [Virtual Reality Haptic Interactions | 虛擬實境與觸覺回饋互動][7.2]
 3. [Data Mining | 資料採掘][7.3]
 
-[7.1]:Courses/Semester7/InformationVisualization/InformationVisualization.md
-[7.2]:Courses/Semester7/VirtualRealityHapticInteractions/VirtualRealityHapticInteractions.md
-[7.3]:Courses/Semester7/DataMining/DataMining.md
+[7.1]:Courses/Semester7/InformationVisualization/
+[7.2]:Courses/Semester7/VirtualRealityHapticInteractions/
+[7.3]:Courses/Semester7/DataMining/
 
 ## 2025 Spring
 
@@ -110,10 +110,10 @@
 4. [Introduction to Software Engineering | 軟體工程概論][8.4]
 5. [Video Compression | 視訊壓縮][8.5]
 
-[8.1]:Courses/Semester8/ElectronicCircuits/ElectronicCircuits.md
-[8.2]:Courses/Semester8/GeneralPhysics(II)/GeneralPhysics(II).md
-[8.3]:Courses/Semester8/GraphTheory/GraphTheory.md
-[8.4]:Courses/Semester8/IntroToSWE/IntroToSWE.md
-[8.5]:Courses/Semester8/VideoCompression/VideoCompression.md
+[8.1]:Courses/Semester8/ElectronicCircuits/
+[8.2]:Courses/Semester8/GeneralPhysics(II)/
+[8.3]:Courses/Semester8/GraphTheory/
+[8.4]:Courses/Semester8/IntroToSWE/
+[8.5]:Courses/Semester8/VideoCompression/
 
 ![NCCU](Images/NCCU.jpg)
