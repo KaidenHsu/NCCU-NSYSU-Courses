@@ -30,10 +30,10 @@ Each course markdown file follows this standard structure:
 
 The `Course Schedule & Requirements` section **must be a markdown table**. The table structure varies by course type but commonly includes:
 
-- **By Date**: For courses with irregular schedules (e.g., [ComputerProgramming1](Courses/Semester1/ComputerProgramming1/README.md))
+- **By Date**: For courses with irregular schedules (e.g., [ComputerProgramming1](Courses/Undergrad/Semester1/ComputerProgramming1/README.md))
   - Columns: `Date | Topics`
 
-- **By Week**: For structured semester courses (e.g., [DataStructures](Courses/Semester3/DataStructures/README.md))
+- **By Week**: For structured semester courses (e.g., [DataStructures](Courses/Undergrad/Semester3/DataStructures/README.md))
   - Columns: `Week | Topic | Content and Reading Assignment | Teaching Activities and Homework | In-class Hours | Outside-of-class Hours`
 
 When editing or creating course files:
@@ -45,7 +45,7 @@ When editing or creating course files:
 
 ## Key Directories
 
-- `Courses/Semester1-9/` — Course notes organized by semester and subject
+- `Courses/Undergrad/Semester1-8/` — Undergraduate course notes organized by semester and subject
 - `Images/` — University logos and images
 
 ## Common Patterns
