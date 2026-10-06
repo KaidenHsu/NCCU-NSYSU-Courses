@@ -1,4 +1,4 @@
-# NSYSU EE (SoC) M.S. | 中山電機 (系統晶片組) 碩士
+# M.S. NSYSU EE - SoC | 中山電機 系統晶片組 碩士
 
 ## 2026 Fall
 1. [Design and Implementation of Arithemtic Units | 算術處理器設計與實作][10.1]
@@ -23,7 +23,7 @@
 
 ![NSYSU](Images/NSYSU.jpg)
 
-# NCCU CS (AI) B.S. | 政大資科 (人工智慧組) 學士
+# B.S. NCCU CS - AI | 政大資科 人工智慧組 學士
 
 ## 2022 Fall
 
