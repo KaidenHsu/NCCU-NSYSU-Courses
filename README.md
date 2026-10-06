@@ -1,11 +1,12 @@
 # NSYSU EE (SoC) M.S. | 中山電機 (系統晶片組) 碩士
 
 ## 2026 Fall
-1. Design and Implementation of Arithemtic Units | 算術處理器設計與實作
+1. [Design and Implementation of Arithemtic Units | 算術處理器設計與實作][10.1]
 2. System-on-Chip Design | 系統晶片設計
 3. [EDA Design Flow and Integration | EDA 設計流程整合][10.3]
 4. Software-Hardware Co-Design for Data-Intensive Systems | 資料密集系統的軟硬體協同設計
 
+[10.1]: https://github.com/KaidenHsu/Design-and-Impelmentation-of-ALU
 [10.3]: https://github.com/KaidenHsu/EDA-Design-Flow-Integration
 
 ## 2026 Spring
